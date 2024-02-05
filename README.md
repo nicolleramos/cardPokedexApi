@@ -1,2 +1,7 @@
-## Pokedex
-![image](https://github.com/nicolleramos/cardPokedexApi/assets/138618201/a4b3a430-868c-47ac-b3ab-d9c28a6b4d13)
+## Pokedex 
+
+<div align="center">
+  
+![Gravando 2024-02-05 133612](https://github.com/nicolleramos/cardPokedexApi/assets/138618201/771ed7c1-47c9-477a-9c0e-0033e7c22df9)
+
+</div>
